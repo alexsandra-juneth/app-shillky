@@ -1,0 +1,6 @@
+IBM-Ready-App-for-Healthcare/android/app/src/main/res/values/secrets.xml
+
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="analyticsKey">your_google_analytics_key</string>
+</resources>
