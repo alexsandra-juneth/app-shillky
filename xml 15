@@ -1,0 +1,26 @@
+IBM-Ready-App-for-Healthcare/android/app/src/main/res/menu/landing.xml
+
+<!-- Licensed Materials - Property of IBM
+ © Copyright IBM Corporation 2014, 2015. All Rights Reserved.
+-->
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.ibm.mil.readyapps.physio.activities.LandingActivity">
+    <item
+        android:id="@+id/action_settings"
+        android:title="@string/action_settings"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+</menu>
+© 2019 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
